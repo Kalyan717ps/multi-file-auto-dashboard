@@ -1,0 +1,9 @@
+multi-file-auto-dashboard/
+├── app.py
+├── requirements.txt
+├── utils/
+│   ├── relationship_detector.py
+│   └── chart_generator.py
+└── sample_data/
+    ├── customers.csv
+    └── orders.xlsx
